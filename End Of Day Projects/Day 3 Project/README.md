@@ -1,0 +1,1 @@
+A game that I made using If, Elif, and Else Statements. In the game the user has to input the correct commands to navigate the story, if they make a wrong choice they have to go back and retry at that point. At the end of the game it says that they won, and they can replay it by re-running the code.
