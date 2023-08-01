@@ -1,0 +1,2 @@
+This challange involves making a robot solve a maze using If.Elif, and Else statements as well as other functions to have the robot problem solve its way to the goal. If you want to run the code yourself you can go to the link below and paste my code into it.
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
